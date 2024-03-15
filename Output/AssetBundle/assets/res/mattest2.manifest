@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 2032480371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8b3ab81380a0a4cddd936660386a1e34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 16c36b7b3350fad15821c42f96c32ccb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/MatTest2/New Material.mat
+- Assets/Res/MatTest2/New Material 2.mat
+- Assets/Res/MatTest2/New Material 1.mat
+Dependencies:
+- D:/StudyData/UnityPorjects/Lost/Output/AssetBundle/assets/res/svc
+- D:/StudyData/UnityPorjects/Lost/Output/AssetBundle/assets/res/texture

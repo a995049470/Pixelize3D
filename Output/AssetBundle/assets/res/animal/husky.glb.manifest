@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4088131925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4da412e32d79315e7f0f19e4af9d2de8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 235b93539ddd1b3e84a4a35a38b769cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Animal/Husky.glb/Husky.fbx
+Dependencies: []
