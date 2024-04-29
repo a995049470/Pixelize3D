@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1993705541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe532d20a8bf98528141d6daae276a51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ff414f606ea1972259b080d7bcf51689
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Texture/Tex.png
+Dependencies: []

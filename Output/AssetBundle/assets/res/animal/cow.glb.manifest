@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 433392061
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f4b61577378d97cbbaf3215163b3171
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 235b93539ddd1b3e84a4a35a38b769cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Animal/Cow.glb/Cow.fbx
+Dependencies: []

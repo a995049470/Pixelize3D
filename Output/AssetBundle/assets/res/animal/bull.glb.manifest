@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4262126989
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a56bdbc39dec48ec47815650ad9718d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 235b93539ddd1b3e84a4a35a38b769cf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Animal/Bull.glb/Bull.fbx
+Dependencies: []

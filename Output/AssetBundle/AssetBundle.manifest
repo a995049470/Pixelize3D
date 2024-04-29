@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2899059117
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/res/svc
+      Dependencies: {}
+    Info_1:
+      Name: assets/res/mattest1
+      Dependencies:
+        Dependency_0: assets/res/svc
+        Dependency_1: assets/res/texture
+    Info_2:
+      Name: assets/res/mattest2
+      Dependencies:
+        Dependency_0: assets/res/svc
+        Dependency_1: assets/res/texture
+    Info_3:
+      Name: assets/res/texture
+      Dependencies: {}
+    Info_4:
+      Name: assets/res/animal/alpaca.glb
+      Dependencies: {}
+    Info_5:
+      Name: assets/res/animal/bull.glb
+      Dependencies: {}
+    Info_6:
+      Name: assets/res/animal/cow.glb
+      Dependencies: {}
+    Info_7:
+      Name: assets/res/animal/deer.glb
+      Dependencies: {}
+    Info_8:
+      Name: assets/res/animal/donkey.glb
+      Dependencies: {}
+    Info_9:
+      Name: assets/res/animal/fox.glb
+      Dependencies: {}
+    Info_10:
+      Name: assets/res/animal/horse.glb
+      Dependencies: {}
+    Info_11:
+      Name: assets/res/animal/husky.glb
+      Dependencies: {}
+    Info_12:
+      Name: assets/res/animal/shiba inu.glb
+      Dependencies: {}
+    Info_13:
+      Name: assets/res/animal/stag.glb
+      Dependencies: {}
+    Info_14:
+      Name: assets/res/animal/white horse.glb
+      Dependencies: {}
+    Info_15:
+      Name: assets/res/animal/wolf.glb
+      Dependencies: {}

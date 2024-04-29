@@ -1,0 +1,13 @@
+Library/*
+obj/*
+*.csproj
+*.sln
+.idea/*
+.vs/*
+.vscode/*
+Temp/*
+__test/*
+/Assets/__test
+Logs/*
+/Logs
+/Doc
