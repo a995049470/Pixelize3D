@@ -22,6 +22,7 @@ namespace Lost.Runtime.Footstone.Game
 
         private void Awake()
         {
+            GameLauncher.GameStart();
             var uiManager = StoneHeart.Instance.Services.GetService<UIManager>();
             uiManager.ClearInvaildWindow();
             var gameSceneManager = StoneHeart.Instance.Services.GetService<GameSceneManager>();

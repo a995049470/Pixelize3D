@@ -9,8 +9,8 @@ namespace Lost.Runtime.Footstone.Game
     public static class GameLauncher 
     {
         
-        [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSplashScreen)]
-        private static void GameStart()
+        //[RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.BeforeSceneLoad)]
+        public static void GameStart()
         {
             //锁60
             Application.targetFrameRate = 60;
@@ -34,17 +34,7 @@ namespace Lost.Runtime.Footstone.Game
             gameSceneManager.Initialize(service);
             uiManager.Initialize(service);
 
-#if UNITY_EDITOR
-            var defalutScene = UnityEditor.EditorPrefs.GetString(GameConstant.DefalutSceneKey);
-            if (!string.IsNullOrEmpty(defalutScene))
-            {
-                var currentSceneName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
-                if(currentSceneName != defalutScene)
-                {
-                    UnityEngine.SceneManagement.SceneManager.LoadScene(defalutScene, UnityEngine.SceneManagement.LoadSceneMode.Single);
-                }
-            }
-#endif
+
 
             
             
