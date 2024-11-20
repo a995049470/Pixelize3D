@@ -1,0 +1,31 @@
+{
+
+    "Table_Crossbow":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Player/Table_Crossbow.asset"
+    },
+    "Table_Dagger":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Player/Table_Dagger.asset"
+    },
+    "Table_Empty_Player":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Player/Table_Empty_Player.asset"
+    },
+    "Table_Empty_Spider":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Spider/Table_Empty_Spider.asset"
+    },
+    "Table_Empty_Snake":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Snake/Table_Empty_Snake.asset"
+    },
+    "Table_Empty_Frog":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/Frog/Table_Empty_Frog.asset"
+    },
+    "Table_Hide_Finsh":
+    {
+        "url" : "Assets/Res/GameData/Attack/AttackTable/HideFish/Table_Hide_Finsh.asset"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "seed_carrot" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Seed_Carrot.png"
+    },
+    "tool_hoe" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Hoe.png"
+    },
+    "tool_pickaxe" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Pickaxe.png"
+    },
+    "tool_wateringcan" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Wateringcan.png"
+    },
+    "weapon_dagger" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Dagger.png"
+    },
+    "carrot" : 
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Carrot.png"
+    },
+    "crossbow" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Crossbow.png"
+    },
+    "plot" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Plot.png"
+    },
+    "blueprint_dagger" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Blueprint_Dagger.png"
+    },
+    "Blueprint_Crossbow" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Blueprint_Crossbow.png"
+    },
+    "unknown" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Unknown.png"
+    },
+    "wood" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Wood.png"
+    },
+    "stone" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/Stone.png"
+    },
+    "map_player" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_player.png"
+    },
+    "map_plot" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_plot.png"
+    },
+    "map_green" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_green.png"
+    },
+    "map_red" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_red.png"
+    },
+    "map_portal" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_portal.png"
+    },
+    "hunt_map" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/hunt_map.png"
+    },
+    "map_water" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/map_water.png"
+    },
+    "key" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/key.png"
+    },
+    "coin" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/coin.png"
+    },
+    "statue" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/statue_32x32.png"
+    },
+    "ban" :
+    {
+        "url" : "Assets/Res/Sprite/UI/ItemIcon/ban.png"
+    }
+
+    
+}

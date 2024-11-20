@@ -1,0 +1,66 @@
+{
+    "level_test":
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/LevelTest.prefab"
+    },
+    "Window_Main" : 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Main.prefab"
+    },
+    "Window_Bag" : 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Bag.prefab"
+    },
+    "Model_BagGrid" :
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_BagGrid.prefab"
+    },
+    "Model_Tip" :
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_Tip.prefab"
+    },
+    "Model_FastGrid" :
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_FastGrid.prefab"
+    },
+    "Window_Start": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Start.prefab"       
+    },
+    "Window_Craft": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Craft.prefab"       
+    },
+    "Model_CraftCost": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_CraftCost.prefab"       
+    },
+    "Model_CraftGrid": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_CraftGrid.prefab"       
+    },
+    "Model_ItemTip": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_ItemTip.prefab"       
+    },
+    "Window_Map": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Map.prefab"       
+    },
+    "Model_MapElement": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_MapElement.prefab"       
+    },
+    "Model_OblationGrid": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Model/Model_OblationGrid.prefab"       
+    },
+    "Window_Sacrifice": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_Sacrifice.prefab"       
+    },
+    "Window_InteractiveTip": 
+    {
+        "url" : "Assets/Res/Prefab/UI/Window/Window_InteractiveTip.prefab"       
+    }
+}

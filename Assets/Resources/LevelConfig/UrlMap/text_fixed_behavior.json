@@ -1,0 +1,9 @@
+{
+    "GiveWay_C_1_1": 
+    [
+        {"name" : "move", "point" : "MapPoint_C_1_1"},
+        {"name" : "rotate", "dir" : [0, 0, -1]}
+    ]
+        
+    
+}

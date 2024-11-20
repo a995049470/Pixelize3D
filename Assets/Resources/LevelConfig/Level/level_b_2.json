@@ -1,0 +1,72 @@
+{
+    "mapEnv": "level_test",
+    "player": "player_base",
+    "mapTex" : "map_b_2",
+    "startPoint" : "point_start",
+    "endPoint" : "Finish_B_2",
+    "mapSeed": 2,
+    "prefabSeed": 99,
+    "unitSeed" : 88,
+    "tileSeed" : 66, 
+    "gridPixelSize": 3,
+    "minAreaGridMaxNum": 5,
+    "maxAreaGridMaxNum": 11,
+    "wall" : [
+        {
+            "name": "Bush0",
+            "weight": 1,
+            "weightCut" : 0
+        }
+    ],
+    "monsterDensity": 0.06,
+    "monster": [
+        {
+            "name": "Spider",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Snake",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Frog",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "barrier": [
+        {
+            "name": "Barrier_Grass",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "entity_tile" : "tile_test",
+    "tileData" : "tile_test", 
+    "interactiveDensity": 0.1,
+    "interactive": [
+        {
+            "name": "Carrot",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Beet",
+            "weight": 20,
+            "weightCut" : 0
+        }
+    ],
+    "fixedMonster" : ["Spider"],
+    "fixedInteractive" : [
+        "Tomato",
+        "Bush_Death", "Tomato", 
+        "Tomato",
+        "DeadBody_B_2_1", "Bush_Death",
+        "Bush_Death", "Bush_Death", "Chest_B_2_1",
+        "DeadBody_B_2_2"
+    ],
+    "entity_config" : ["PlotConfig_Test"]
+
+}

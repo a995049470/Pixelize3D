@@ -1,0 +1,10 @@
+{
+    "bg_grid_select" :
+    {
+        "url" : "Assets/Res/Sprite/UI/UIModel_FastGrid/Inventory_select.png"
+    },
+    "bg_grid_slot" :
+    {
+        "url" : "Assets/Res/Sprite/UI/UIModel_FastGrid/Inventory_Slot.png"
+    }
+}

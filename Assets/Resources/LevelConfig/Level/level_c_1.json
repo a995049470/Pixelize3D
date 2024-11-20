@@ -1,0 +1,69 @@
+{
+    "mapEnv": "level_test",
+    "player": "player_base",
+    "mapTex" : "map_c_1",
+    "startPoint" : "point_start",
+    "endPoint" : "Finish_C_1",
+    "mapSeed": 448,
+    "prefabSeed": 99,
+    "unitSeed" : 88,
+    "tileSeed" : 66, 
+    "gridPixelSize": 3,
+    "minAreaGridMaxNum": 5,
+    "maxAreaGridMaxNum": 11,
+    "wall" : [
+        {
+            "name": "Bush0",
+            "weight": 1,
+            "weightCut" : 0
+        }
+    ],
+    "monsterDensity": 0.06,
+    "monster": [
+        {
+            "name": "Spider",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Snake",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Frog",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "barrier": [
+        {
+            "name": "Barrier_Grass",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "entity_tile" : "tile_test",
+    "tileData" : "tile_test", 
+    "interactiveDensity": 0.08,
+    "interactive": [
+        {
+            "name": "Carrot",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Beet",
+            "weight": 20,
+            "weightCut" : 0
+        }
+    ],
+    "fixedMonster" : [
+        "Spider_C_1_1", "Spider_C_1_2", "Spider_C_1_3", "Spider_C_1_4" 
+    ],
+    "fixedInteractive" : [
+        
+    ],
+    "entity_config" : ["PlotConfig_Test"]
+
+}

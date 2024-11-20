@@ -1,0 +1,50 @@
+{
+    "Damage100":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Damage/Damage100.prefab"
+    },
+    "LauchBullet_Arrow":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Bullet/LauchBullet_Arrow.prefab"
+    },
+    "LauchBullet_SpiderWeb":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Bullet/LauchBullet_SpiderWeb.prefab"
+    },
+    "LauchBullet_Venom":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Bullet/LauchBullet_Venom.prefab"
+    },
+    "AudioPlay_L1" :
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Audio/AudioPlay_L1.prefab"
+    },
+    "AudioPlay_R1" :
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Audio/AudioPlay_R1.prefab"
+    },
+    "Damage_Dagger_Player" :
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Damage/Damage_Dagger_Player.prefab"
+    },
+    "Damage_Kick_Player" :
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Damage/Damage_Kick_Player.prefab"
+    },
+    "Damage100_Repel":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Damage/Damage100_Repel.prefab"
+    },
+    "Damage100_Impact":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Specail/HideFish/Damage100_Impact.prefab"
+    },
+    "PositionReset":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Specail/HideFish/PositionReset.prefab"
+    },
+    "ForceIdle":
+    {
+        "url" : "Assets/Res/Prefab/AnimationClipEvent/Specail/HideFish/ForceIdle.prefab"
+    }
+}

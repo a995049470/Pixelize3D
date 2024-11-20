@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1599801101
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1599801102}
+  - component: {fileID: 1599801104}
+  - component: {fileID: 1599801103}
+  m_Layer: 12
+  m_Name: Collider (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1599801102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599801101}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3913461104067457366}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!135 &1599801104
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599801101}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.4
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1599801103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599801101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 762ef1e2d5fb841448713e6e1f80bcc1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 3913461104067457368}
+--- !u!1 &3913461104067457367
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3913461104067457366}
+  - component: {fileID: 3913461104067457368}
+  - component: {fileID: 3913461104067457369}
+  - component: {fileID: 3913461104067457373}
+  - component: {fileID: 3913461104067457370}
+  - component: {fileID: 3913461104067457371}
+  - component: {fileID: 1664374988350294944}
+  - component: {fileID: 6722599690527379449}
+  - component: {fileID: 984235253}
+  - component: {fileID: 7897491955052128182}
+  - component: {fileID: 7543566073730634391}
+  - component: {fileID: 2566812802397223926}
+  m_Layer: 0
+  m_Name: Plant_Carrot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3913461104067457366
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1599801102}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3913461104067457368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf179b34f9051846a5ce075be4f7ee7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Transform: {fileID: 3913461104067457369}
+  Id: 0
+--- !u!114 &3913461104067457369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 629689c7be098e947920befcf2a4d2a6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+--- !u!114 &3913461104067457373
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcd38c1f958a0174583bbec72286e98c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  Key: Carrot_Seed
+  TargetPower: 5
+  CurrentPower: 0
+--- !u!114 &3913461104067457370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ff7d4978597e494eab11513a543b5da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  Key: Carrot_Adult
+  TargetPower: 5
+  SubStateCount: 2
+  CurrentPower: 0
+--- !u!114 &3913461104067457371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 921c1c7c98b4a104f94c319cbf95fe94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  Key: Carrot_Fruit
+  TargetPower: 5
+  CurrentPower: 0
+  Fruit: carrot
+  Count: 2
+  TargetRefruitCount: 1
+  currentRefruitCount: 0
+--- !u!114 &1664374988350294944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8fe70f13fc9c240a8569246bb3c841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  Key: Carrot_Seedling
+  TargetPower: 5
+  CurrentPower: 0
+--- !u!114 &6722599690527379449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c6d1781cc6d4242a4a5a60632c4523, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  OriginTriggerFlag: 0
+  TriggerFlag: 1
+  IsRepeatInteractive: 0
+--- !u!114 &984235253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be2a306cbf7f024d9f06634f1d095e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  NextPlantKey: 
+  CurrentPlantFlag: 1
+  RemainGrowthPower: 0
+  AdultStateSpeedUpProgress: 0
+--- !u!114 &7897491955052128182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6453e0651f765b429512dc46a5b1f6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+--- !u!114 &7543566073730634391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 400d5a5351d12ce4d9c719351ff5df08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0
+  IconKey: carrot
+  Layer: 1
+--- !u!114 &2566812802397223926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3913461104067457367}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a275477cf3e05e04b8b2dd8e21d51835, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  childEntityReference:
+    childIndices: 
+    isNull: 0
+  isLive: 0
+  Id: 0

@@ -1,0 +1,54 @@
+{
+    "EmptyAttack_A_Player":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Player/EmptyAttack_A_Player.asset"
+    },
+    "KnifeAttack_A_Player":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Player/KnifeAttack_A_Player.asset"
+    },
+    "CrossbowAttack_A_Player":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Player/CrossbowAttack_A_Player.asset"
+    },
+    "NearAttack_A_Spider":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Spider/NearAttack_A_Spider.asset"
+    },
+    "FarAttack_A_Spider":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Spider/FarAttack_A_Spider.asset"
+    },
+    "NearAttack_A_Snake":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Snake/NearAttack_A_Snake.asset"
+    },
+    "FarAttack_A_Snake":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Snake/FarAttack_A_Snake.asset"
+    },
+    "NearAttack_A_Frog":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/Frog/NearAttack_A_Frog.asset"
+    },
+    "Walk_A_Player":
+    {
+        "url" : "Assets/Res/GameData/Action/Player/Walk_A_Player.asset"
+    },
+    "AttackFail_A_HideFish":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/HideFish/AttackFail_A_HideFish.asset"
+    },
+    "AttackSuccess_A_HideFish":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/HideFish/AttackSuccess_A_HideFish.asset"
+    },
+    "WaterAttack_A_HideFish":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/HideFish/WaterAttack_A_HideFish.asset"
+    },
+    "NearAttack_A_HideFish":
+    {
+        "url" : "Assets/Res/GameData/Attack/AnimationEventController/HideFish/NearAttack_A_HideFish.asset"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "system" : 
+    {
+        "url" : "Assets/Res/Prefab/System/System.prefab"
+    },
+    "ui_root":
+    {
+        "url": "Assets/Res/Prefab/System/Canvas.prefab"
+    }
+    
+}

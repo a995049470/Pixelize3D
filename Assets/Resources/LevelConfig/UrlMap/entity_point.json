@@ -1,0 +1,55 @@
+{
+    "point_start":
+    {
+        "url" : "Assets/Res/Prefab/Point/StartPoint.prefab"
+    },
+    "point_end":
+    {
+        "url" : "Assets/Res/Prefab/Point/TeleportPoint_Finish.prefab"
+    },
+    "teleport_point_born" :
+    {
+        "url" : "Assets/Res/Prefab/Point/TeleportPoint_Born.prefab"
+    },
+    "Finish_A_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/A_1/Finish_A_1.prefab"
+    },
+    "Finish_A_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/A_2/Finish_A_2.prefab"
+    },
+    "Finish_A_3" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/A_3/Finish_A_3.prefab"
+    },
+    "Door_Level_A_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/World/Door_Level_A_1.prefab"
+    },
+    "Finish_B_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/B_1/Finish_B_1.prefab"
+    },
+    "Door_Level_B_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/World/Door_Level_B_1.prefab"
+    },
+    "Finish_B_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/B_2/Finish_B_2.prefab"
+    },
+    "Finish_B_3" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/B_3/Finish_B_3.prefab"
+    },
+    "Door_Level_C_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/World/Door_Level_C_1.prefab"
+    },
+    "Finish_C_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Point/C_1/Finish_C_1.prefab"
+    }
+    
+}

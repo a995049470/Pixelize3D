@@ -1,0 +1,15 @@
+Library/*
+obj/*
+*.csproj
+*.sln
+.idea/*
+.vs/*
+.vscode/*
+Temp/*
+Logs/*
+/Logs
+**/_Local/**
+/Assets/Plugins/AmplifyShaderEditor.meta
+/Assets/Plugins/AmplifyShaderEditor
+/UserSettings/Layouts/*.dwlt
+Output

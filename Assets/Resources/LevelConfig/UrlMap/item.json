@@ -1,0 +1,376 @@
+{
+    "seed_carrot" : 
+    {
+        "icon" : "seed_carrot",
+        "maxNum" : 99,
+        "name" : "胡萝卜种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Carrot"
+    },
+    "seed_spider" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "蜘蛛种子",
+        "desc_bag" : "",
+        "power" : "",
+        "entity" : ""
+    },
+    "seed_snake" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "毒蛇种子",
+        "desc_bag" : "",
+        "power" : "",
+        "entity" : ""
+    },
+    "tool_hoe" : 
+    {
+        "icon" : "tool_hoe",
+        "maxNum" : 1,
+        "name" : "锄头",
+        "desc_bag" : "",
+        "power" : "power_hoe"
+    },
+    "tool_pickaxe" : 
+    {
+        "icon" : "tool_pickaxe",
+        "maxNum" : 1,
+        "name" : "镐子",
+        "desc_bag" : "",
+        "power" : "power_pickaxe"
+    },
+    "tool_wateringcan" : 
+    {
+        "icon" : "tool_wateringcan",
+        "maxNum" : 1,
+        "name" : "水壶",
+        "desc_bag" : "",
+        "power" : "power_wateringcan"
+    },
+    "weapon_dagger" :
+    {
+        "icon" : "weapon_dagger",
+        "maxNum" : 1,
+        "name" : "匕首",
+        "desc_bag" : "",
+        "power" : "power_dagger",
+        "cost_craft" :[
+            { "name" : "stone", "count" : 1 },
+            { "name" : "wood", "count" : 1 }
+        ],
+        "blueprint" : "blueprint_dagger"
+    },
+    "carrot" : 
+    {
+        "icon" : "carrot",
+        "maxNum" : 99,
+        "name" : "胡萝卜",
+        "desc_bag" : "能吃吧？",
+        "power" : "Power_Carrot",
+        "rewards_base" : { "name" : "money", "count" : 5 },
+        "rewards_stage" :[
+            { "exp" : 1, "name" : "seed_carrot", "count" : 10 },
+            { "exp" : 10, "name" : "seed_carrot", "count" : 10 },
+            { "exp" : 50, "name" : "seed_carrot", "count" : 10 },
+            { "exp" : 100, "name" : "seed_carrot", "count" : 10 }
+        ]
+    },
+    "crossbow" : 
+    {
+        "icon" : "crossbow",
+        "maxNum" : 1,
+        "name" : "弩",
+        "desc_bag" : "",
+        "power" : "power_crossbow",
+        "cost_craft" :[
+            { "name" : "stone", "count" : 1 },
+            { "name" : "wood", "count" : 1 }
+        ],
+        "blueprint" : "blueprint_crossbow"
+        
+    },
+    "plot": 
+    {
+        "icon" : "plot",
+        "maxNum" : 99,
+        "name" : "地块",
+        "desc_bag" : "",
+        "power" : "power_plot",
+        "entity" : "Cropland",
+        "blueprint" : "blueprint_plot",
+        "cost_craft" : [
+            { "name" : "money", "count" : 20 }
+        ]
+    },
+    "blueprint_dagger" : 
+    {
+        "icon" : "blueprint_dagger",
+        "maxNum" : 1,
+        "name" : "匕首设计图",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "blueprint_crossbow" : 
+    {
+        "icon" : "Blueprint_Crossbow",
+        "maxNum" : 1,
+        "name" : "弩设计图",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "wood" : 
+    {
+        "icon" : "wood",
+        "maxNum" : 99,
+        "name" : "木材",
+        "desc_bag" : "",
+        "power" : "",
+        "rewards_base" : { "name" : "money", "count" : 5 },
+        "rewards_stage" :[
+            { "exp" : 1, "name" : "money", "count" : 10 },
+            { "exp" : 10, "name" : "money", "count" : 100 },
+            { "exp" : 50, "name" : "money", "count" : 100 },
+            { "exp" : 100, "name" : "money", "count" : 1000 }
+        ]
+    },
+    "stone" : 
+    {
+        "icon" : "stone",
+        "maxNum" : 99,
+        "name" : "石块",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "spider_silk" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "蛛丝",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "venom" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "毒液",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "money" :
+    {
+        "icon" : "coin",
+        "maxNum" : 999,
+        "name" : "钱",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "blueprint_plot" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 1,
+        "name" : "地块设计图",
+        "desc_bag" : "",
+        "power" : ""
+    },
+    "seed_grass" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "杂草种子",
+        "desc_bag" : "",
+        "power" : "",
+        "entity" : ""
+    },
+    "seed_bamboo" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "竹子种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Bamboo"
+    },
+    "seed_cactus" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "仙人掌种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Cactus"
+    },
+    "seed_corn" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "玉米种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Corn"
+    },
+    "seed_mushroom" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "蘑菇种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Mushroom"
+    },
+    "seed_pumpkin" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "南瓜种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Pumpkin"
+    },
+    "seed_rice" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "水稻种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Rice"
+    },
+    "seed_tomato" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "番茄种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Tomato"
+    },
+    "seed_watermelon" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "西瓜种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Watermelon"
+    },
+    
+    "seed_beet" :
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "甜菜种子",
+        "desc_bag" : "",
+        "power" : "power_seed",
+        "entity" : "Plant_Beet"
+    },
+    "bamboo" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "竹子",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "cactus" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "仙人掌",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "corn" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "玉米",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "mushroom" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "蘑菇",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "pumpkin" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "南瓜",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "rice" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "米",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "tomato" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "番茄",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "watermelon" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "西瓜",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "beet" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 99,
+        "name" : "甜菜",
+        "desc_bag" : "能吃吧？",
+        "power" : ""
+    },
+    "key_b_2" : 
+    {
+        "icon" : "key",
+        "maxNum" : 1,
+        "name" : "钥匙1号",
+        "desc_bag" : "奇怪的钥匙",
+        "power" : ""
+    },
+    "chest" : 
+    {
+        "icon" : "unknown",
+        "maxNum" : 1,
+        "name" : "箱子",
+        "desc_bag" : "一个装宝藏的箱子",
+        "power" : ""
+    },
+    "map_b_1" : 
+    {
+        "icon" : "hunt_map",
+        "maxNum" : 1,
+        "name" : "藏宝图",
+        "desc_bag" : "标记了一个未知的地图",
+        "power" : "Power_FastUse",
+        "effect" : "Effect_Map_B_1"
+    },
+    "statue" : 
+    {
+        "icon" : "statue",
+        "maxNum" : 1,
+        "name" : "雕像",
+        "desc_bag" : "一座无法辨认的残破雕像",
+        "power" : "Power_PlaceObject",
+        "entity" : "Statue"
+    }
+}

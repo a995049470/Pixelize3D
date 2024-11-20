@@ -1,0 +1,22 @@
+{
+    "FollowGoal":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Goal/Base/FollowGoal.asset"
+    },
+    "IdleGoal":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Goal/Base/IdleGoal.asset"
+    },
+    "KillPlayer":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Goal/Base/KillPlayer.asset"
+    },
+    "Stage0_C_1_1":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Goal/Spider_C_1_1/Stage0_C_1_1.asset"
+    },
+    "Stage1_C_1_1":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Goal/Spider_C_1_1/Stage1_C_1_1.asset"
+    }
+}

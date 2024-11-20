@@ -1,0 +1,26 @@
+{
+    "root":
+    {
+        "url" : "Assets/Res/Prefab/UI/Canvas.prefab"
+    },
+    "level_test":
+    {
+        "url" : "Assets/Res/Prefab/Env/Env.prefab"
+    },
+    "tile_test":
+    {
+        "url" : "Assets/Res/Prefab/Env/Tile_Test.prefab"
+    },
+    "Cropland" :
+    {
+        "url" : "Assets/Res/Prefab/Crop/Cropland.prefab" 
+    },
+    "Sea" :
+    {
+        "url" : "Assets/Res/Prefab/Env/Sea.prefab" 
+    },
+    "Listener" :
+    {
+        "url" : "Assets/Res/Prefab/Env/Listener.prefab" 
+    }
+}

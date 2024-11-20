@@ -1,0 +1,120 @@
+{
+    "start":
+    {
+        "player": "",
+        "level" : "",
+        "entities" : "",
+        "env" : "Listener",
+        "camera" : "baseCamera",
+        "light" : "",
+        "ui" : ["Window_Start"],
+        "bgm" : "no_more_magic",
+        "system" : ["system", "ui_root"]
+    },
+    "test":
+    {
+        "player": "player_base",
+        "level" : "level_test",
+        "entities" : "",
+        "env" : "",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "system" : ["system", "ui_root"]
+    },
+    "born":
+    {
+        "player": "player_base",
+        "level" : "level_world",
+        "entities" : "Croplands",
+        "env" : "",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_wave",
+        "system" : ["system", "ui_root"]
+    },
+    "level_a_1":
+    {
+        "player": "player_base",
+        "level" : "level_a_1",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_wave",
+        "system" : ["system", "ui_root"]
+    },
+    "level_a_2":
+    {
+        "player": "player_base",
+        "level" : "level_a_2",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "system" : ["system", "ui_root"]
+    },
+    "level_a_3":
+    {
+        "player": "player_base",
+        "level" : "level_a_3",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "system" : ["system", "ui_root"]
+    },
+    "level_b_1":
+    {
+        "player": "player_base",
+        "level" : "level_b_1",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_island",
+        "system" : ["system", "ui_root"]
+    },
+    "level_b_2":
+    {
+        "player": "player_base",
+        "level" : "level_b_2",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_island",
+        "system" : ["system", "ui_root"]
+    },
+    "level_b_3":
+    {
+        "player": "player_base",
+        "level" : "level_b_3",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_island",
+        "system" : ["system", "ui_root"]
+    },
+    "level_c_1":
+    {
+        "player": "player_base",
+        "level" : "level_c_1",
+        "entities" : "",
+        "env" : "Sea",
+        "camera" : "baseCamera",
+        "light" : "baseLight",
+        "ui" : ["Window_Main"],
+        "bgm" : "bgm_island",
+        "system" : ["system", "ui_root"]
+    }
+    
+}

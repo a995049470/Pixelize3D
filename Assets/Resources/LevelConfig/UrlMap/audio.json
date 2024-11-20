@@ -1,0 +1,40 @@
+{
+    "walk_a_player" :
+    {
+        "url" : "Assets/Res/Audio/SFX/Walk/walk_a_player.flac"
+    },
+    "bgm_island" : 
+    {
+        "url" : "Assets/Res/Audio/BGM/bgm_island.ogg"
+    },
+    "Fantozzi_SandL1" : 
+    {     
+        "volume" : 0.3,
+        "url" : "Assets/Res/Audio/SFX/Walk/Fantozzi_SandL1.ogg"
+    },
+    "Fantozzi_SandR1" : 
+    {
+        "url" : "Assets/Res/Audio/SFX/Walk/Fantozzi_SandR1.ogg"
+    },
+    "bgm_wave" : 
+    {
+        "url" : "Assets/Res/Audio/BGM/bgm_wave.ogg"
+    },
+    "no_more_magic" : 
+    {
+        "url" : "Assets/Res/Audio/BGM/no_more_magic.ogg"
+    },
+    "sword_hit_2" : 
+    {
+        "url" : "Assets/Res/Audio/SFX/Attack/sword_hit_2.mp3"
+    },
+    "sword_miss_1" : 
+    {
+        "url" : "Assets/Res/Audio/SFX/Attack/sword_miss_1.mp3"
+    },
+    "first_punch_or_kick" : 
+    {
+        "url" : "Assets/Res/Audio/SFX/Attack/first_punch_or_kick.mp3"
+    }
+    
+}

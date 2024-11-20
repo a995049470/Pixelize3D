@@ -1,0 +1,41 @@
+{
+    "level_world" :
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_world.json",
+        "world" : true
+    },
+    "level_test":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_test.json",
+        "discard" : 1
+    },
+    "level_a_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_a_1.json"
+    },
+    "level_a_2":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_a_2.json",
+        "discard" : 1
+    },
+    "level_a_3":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_a_3.json"
+    },
+    "level_b_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_b_1.json"
+    },
+    "level_b_2":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_b_2.json"
+    },
+    "level_b_3":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_b_3.json"
+    },
+    "level_c_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Level/level_c_1.json"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "baseLight":
+    {
+        "url" : "Assets/Res/Prefab/Light/DirectionalLight.prefab"
+    }
+}

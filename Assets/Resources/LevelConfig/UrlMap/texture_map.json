@@ -1,0 +1,34 @@
+{
+    "map_test":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_test.png"
+    },
+    "map_a_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_a_1.png"
+    },
+    "map_a_2":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_a_2.png"
+    },
+    "map_a_3":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_a_3.png"
+    },
+    "map_b_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_b_1.png"
+    },
+    "map_b_2":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_b_2.png"
+    },
+    "map_b_3":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_b_3.png"
+    },
+    "map_c_1":
+    {
+        "url" : "Assets/Res/LevelConfig/Map/map_c_1.png"
+    }
+}

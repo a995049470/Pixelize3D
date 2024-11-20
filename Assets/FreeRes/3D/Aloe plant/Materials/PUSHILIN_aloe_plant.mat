@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PUSHILIN_aloe_plant
+  m_Shader: {fileID: 4800000, guid: 1a9db265ebe6fb8419db399aea583301, type: 3}
+  m_ValidKeywords:
+  - _HSV_OFFSET
+  - _LIGHTING
+  - _RECIVE_SHADOW
+  - _VIRTUAL_MORMAL
+  m_InvalidKeywords:
+  - _GROUP0_ON
+  - _OUTLINE_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f61b208bdfcfcce4899e6dad63e14c36, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 49b30d2a597c69f429e12e1327f04c95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _BRDFLight: 1
+    - _BaseWindStrength: 0
+    - _Bend: 0
+    - _Cutoff: 0.01
+    - _DiffuseIntensity: 1
+    - _Group0: 1
+    - _H: -0.1
+    - _HSVOffset: 1
+    - _NoiseWindStrength: 0
+    - _NormalScale: 2.66
+    - _Outline: 1
+    - _OutlineV: 0.1
+    - _PlantHeight: 1
+    - _ReciveShaodow: 1
+    - _RejectLightLevel: 0
+    - _Roughness: 0
+    - _S: 0.14
+    - _SpecularIntensity: 0
+    - _UseCustomObjectPosition: 0
+    - _V: 0.07
+    - _VitrualNormal: 1
+    - _Wind: 0
+    - _WindFPS: 30
+    - _WindNoiseTile: 1
+    - _WindSpeed: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _HitColor: {r: 0, g: 0, b: 0, a: 0}
+    - _ObjectPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 0.199, g: 0.199, b: 0, a: 1}
+    - _RelativePosition: {r: 0, g: 0, b: 0, a: 0}
+    - _VirtualNormaLightDir: {r: 1.13, g: 0.16, b: 2.5, a: 0}
+    - _WindDir: {r: 1, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []

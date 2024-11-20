@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1386491679 &1
+PresetManager:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_DefaultPresets:
+  - first:
+      m_NativeTypeID: 1006
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: 282e679a52d476f40bb1f8700aa00ea0,
+        type: 2}
+      m_Filter: glob:"**/3D/**/*.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 282e679a52d476f40bb1f8700aa00ea0,
+        type: 2}
+      m_Filter: glob:"**/3D/**/*.tga"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 282e679a52d476f40bb1f8700aa00ea0,
+        type: 2}
+      m_Filter: glob:"**/Particle/**/*.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 282e679a52d476f40bb1f8700aa00ea0,
+        type: 2}
+      m_Filter: glob:"**/Texture/**/*.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: bb2c8e55fd4fe2346a16a4b48afe4cd3,
+        type: 2}
+      m_Filter: glob:"**/2D/**/*.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: bb2c8e55fd4fe2346a16a4b48afe4cd3,
+        type: 2}
+      m_Filter: glob:"**/2D/**/*.tga"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: bb2c8e55fd4fe2346a16a4b48afe4cd3,
+        type: 2}
+      m_Filter: glob:"**/Sprite/**/*.png"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: 5b3210fd109d20942ba155c4e837a7f4,
+        type: 2}
+      m_Filter: glob:"Assets/Res/LevelConfig/Map/*.png"
+      m_Disabled: 0
+  - first:
+      m_NativeTypeID: 1041
+      m_ManagedTypePPtr: {fileID: 0}
+      m_ManagedTypeFallback: 
+    second:
+    - m_Preset: {fileID: 2655988077585873504, guid: ac171ba887670b243bc7560f9f226702,
+        type: 2}
+      m_Filter: glob:"**/*.obj"
+      m_Disabled: 0
+    - m_Preset: {fileID: 2655988077585873504, guid: ee7711aeda8b20d49886e4aada8a2837,
+        type: 2}
+      m_Filter: glob:"**/*.fbx"
+      m_Disabled: 0

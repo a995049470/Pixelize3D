@@ -1,0 +1,113 @@
+{
+    
+    "grassland_a_0":
+    {
+        "sub_terrain" : [0, 0, 1, 0]
+    },
+    "grassland_a_1":
+    {
+        "sub_terrain" : [0, 0, 1, 1]
+    },
+    "grassland_a_2":
+    {
+        "sub_terrain" : [0, 0, 1, 1]
+    },
+    "grassland_a_3":
+    {
+        "sub_terrain" : [0, 0, 0, 1]
+    },
+    
+    "grassland_a_4":
+    {
+        "sub_terrain" : [0, 1, 1, 0]
+    },
+    "grassland_a_5":
+    {
+        "sub_terrain" : [1, 0, 0, 1]
+    },
+
+    "grassland_a_6":
+    {
+        "sub_terrain" : [0, 1, 1, 0]
+    },
+    "grassland_a_7":
+    {
+        "sub_terrain" : [1, 0, 0, 1]
+    },
+
+    "grassland_a_8":
+    {
+        "sub_terrain" : [0, 1, 0, 0]
+    },
+    "grassland_a_9":
+    {
+        "sub_terrain" : [1, 1, 0, 0]
+    },
+    "grassland_a_10":
+    {
+        "sub_terrain" : [1, 1, 0, 0]
+    },
+    "grassland_a_11":
+    {
+        "sub_terrain" : [1, 0, 0, 0]
+    },
+
+    "grassland_a_12":
+    {
+        "sub_terrain" : [1, 1, 0, 1]
+    },
+    "grassland_a_13":
+    {
+        "sub_terrain" : [1, 1, 1, 0]
+    },
+    "grassland_a_14":
+    {
+        "sub_terrain" : [1, 0, 1, 1]
+    },
+    "grassland_a_15":
+    {
+        "sub_terrain" : [0, 1, 1, 1]
+    },
+    "grassland_a_16":
+    {
+        "sub_terrain" : [0, 0, 0, 0]
+    },
+    "grassland_a_17":
+    {
+        "sub_terrain" : [0, 0, 0, 0]
+    },
+    "grassland_a_18":
+    {
+        "sub_terrain" : [0, 0, 0, 0]
+    },
+    "grassland_a_19":
+    {
+        "sub_terrain" : [0, 0, 0, 0]
+    },
+    "grassland_a_20":
+    {
+        "sub_terrain" : [1, 1, 1, 1]
+    },
+    "grassland_a_21":
+    {
+        "sub_terrain" : [1, 1, 1, 1]
+    },
+    "grassland_a_22":
+    {
+        "sub_terrain" : [1, 1, 1, 1]
+    },
+    "grassland_a_23":
+    {
+        "sub_terrain" : [1, 1, 1, 1]
+    },
+    "grassland_a_24":
+    {
+        "sub_terrain" : [0, 1, 0, 1]
+    },
+    "grassland_a_25":
+    {
+        "sub_terrain" : [1, 0, 1, 0]
+    }
+    
+
+}

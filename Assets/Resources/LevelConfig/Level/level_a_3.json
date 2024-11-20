@@ -1,0 +1,68 @@
+{
+    "mapEnv": "level_test",
+    "player": "player_base",
+    "mapTex" : "map_a_3",
+    "startPoint" : "point_start",
+    "endPoint" : "Finish_A_3",
+    "mapSeed": 1,
+    "prefabSeed": 99,
+    "unitSeed" : 88,
+    "tileSeed" : 66, 
+    "gridPixelSize": 3,
+    "minAreaGridMaxNum": 5,
+    "maxAreaGridMaxNum": 11,
+    "wall" : [
+        {
+            "name": "Bush0",
+            "weight": 1,
+            "weightCut" : 0
+        }
+    ],
+    "monsterDensity": 0.06,
+    "monster": [
+        {
+            "name": "Spider",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Snake",
+            "weight": 100,
+            "weightCut" : 0
+        },
+        {
+            "name": "Frog",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "barrier": [
+        {
+            "name": "Barrier_Grass",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "entity_tile" : "tile_test",
+    "tileData" : "tile_test", 
+    "interactiveDensity": 0.0,
+    "interactive": [
+        {
+            "name": "Carrot",
+            "weight": 100,
+            "weightCut" : 0
+        }
+    ],
+    "fixedMonster" : ["HideFish"],
+    "fixedInteractive" : [
+        "Carrot", 
+        "Carrot",
+        "Carrot", "Carrot",
+        "DeadBody_A_3_1",
+        "DeadBody_A_3_2",
+        "Carrot", "Carrot",
+        "DeadBody_A_3_3"
+    ],
+    "entity_config" : ["PlotConfig_Test"]
+
+}

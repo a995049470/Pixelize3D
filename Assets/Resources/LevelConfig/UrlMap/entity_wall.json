@@ -1,0 +1,19 @@
+{
+    "Rock" :
+    {
+        "url" : "Assets/Res/Prefab/Wall/Rock.prefab"
+    },
+    "Bush_Test" :
+    {
+        "url" : "Assets/Res/Prefab/Wall/Bush_Test.prefab"
+    },
+    "Bush0" :
+    {
+        "url" : "Assets/Res/Prefab/Wall/Bush.prefab"
+    },
+    "Bush_NearDeath" :
+    {
+        "url" : "Assets/Res/Prefab/Wall/Bush_NearDeath.prefab"
+    }
+    
+}

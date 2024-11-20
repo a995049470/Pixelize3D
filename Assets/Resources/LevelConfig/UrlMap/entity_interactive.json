@@ -1,0 +1,118 @@
+{
+    "DeadBody_A_1_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_1/DeadBody_A_1_1.prefab"
+    },
+    "DeadBody_A_1_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_1/DeadBody_A_1_2.prefab"
+    },
+    "DeadBody_A_2_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_2/DeadBody_A_2_1.prefab"
+    },
+    "Door_A_2_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_2/Door_A_2_1.prefab"
+    },
+    "Door_A_2_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_2/Door_A_2_2.prefab"
+    },
+    "Key_A_2_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_2/Key_A_2_1.prefab"
+    },
+    "Key_A_2_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_2/Key_A_2_2.prefab"
+    },
+    "Carrot" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Carrot.prefab"
+    },
+    "DeadBody_A_3_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_3/DeadBody_A_3_1.prefab"
+    },
+    "DeadBody_A_3_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_3/DeadBody_A_3_2.prefab"
+    },
+    "DeadBody_A_3_3" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/A_3/DeadBody_A_3_3.prefab"
+    },
+    "DeadBody_B_1_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_1/DeadBody_B_1_1.prefab"
+    },
+    "Bamboo" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Bamboo.prefab"
+    },
+    "Beet" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Beet.prefab"
+    },
+    "Cactus" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Cactus.prefab"
+    },
+    "Corn" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Corn.prefab"
+    },
+    "Mushroom" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Mushroom.prefab"
+    },
+    "Pumpkin" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Pumpkin.prefab"
+    },
+    "Rice" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Rice.prefab"
+    },
+    "Tomato" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Tomato.prefab"
+    },
+    "Watermelon" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Plant/Watermelon.prefab"
+    },
+    "Bush_Death" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Wall/Bush_Death.prefab"
+    },
+    "Chest_B_2_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_2/Chest_B_2_1.prefab"
+    },
+    "DeadBody_B_2_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_2/DeadBody_B_2_1.prefab"
+    },
+    "DeadBody_B_2_2" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_2/DeadBody_B_2_2.prefab"
+    },
+    "Chest_Test" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/Test/Chest_Test.prefab"
+    },
+    "Statue_B_3_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_3/Statue_B_3_1.prefab"
+    },
+    "DeadBody_B_3_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/B_3/DeadBody_B_3_1.prefab"
+    },
+    "MapPoint_C_1_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Interactive/C_1/MapPoint_C_1_1.prefab"
+    }
+}

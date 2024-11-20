@@ -1,0 +1,15 @@
+{
+    "Barrier" : 
+    {
+        "url" : "Assets/Res/Prefab/Barrier/Barrier.prefab"
+    },
+    "Barrel" :
+    {
+        "url" : "Assets/Res/Prefab/Barrier/Barrel.prefab"
+    },
+    "Barrier_Grass" : 
+    {
+        "url" : "Assets/Res/Prefab/Barrier/Barrier_Grass.prefab"
+    }
+    
+}

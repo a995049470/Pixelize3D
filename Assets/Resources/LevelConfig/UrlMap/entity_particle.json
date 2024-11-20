@@ -1,0 +1,27 @@
+{
+    "Boom":
+    {
+        "url" : "Assets/Res/Prefab/Particle/CFX2_WWExplosion_C.prefab"
+    },
+    "Hit":
+    {
+        "url" : "Assets/Res/Prefab/Particle/CFX_Hit_C White.prefab"
+    },
+    "Explosion":
+    {
+        "url" : "Assets/Res/Prefab/Particle/CFX_Explosion_B_Smoke+Text.prefab"
+    },
+    "Boom_Star":
+    {
+        "url" : "Assets/Res/Prefab/Particle/CFX_Firework_Trails_Gravity.prefab"
+    },
+    "Explosion_Web":
+    {
+        "url" : "Assets/Res/Prefab/Particle/Explosion_Web.prefab"
+    },
+    "Explosion_Venom":
+    {
+        "url" : "Assets/Res/Prefab/Particle/Explosion_Venom.prefab"
+    }
+    
+}

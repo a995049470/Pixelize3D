@@ -1,0 +1,6 @@
+{
+    "baseCamera":
+    {
+        "url" : "Assets/Res/Prefab/Camera/MainCamera.prefab"
+    }
+}

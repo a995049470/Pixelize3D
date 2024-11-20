@@ -1,0 +1,19 @@
+{
+    "levels" :
+    [
+        { "name" : "Door_Level_A_1", "pos" : { "x" : 128, "y" : 128 } },
+        "Door_Level_B_1",
+        "Door_Level_C_1"
+    ],
+    "minDistance" : 10,
+    "maxDistance" : 15,
+    "width" : 255,
+    "height" : 255,
+    "center" : {
+        "x" : 127,
+        "y" : 127
+    },
+    "seed" : 6,
+    "tileData" : "tile_test",
+    "entity_config" : ["PlotConfig_Born"]
+ }

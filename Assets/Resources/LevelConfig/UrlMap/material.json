@@ -1,0 +1,11 @@
+{
+    
+    "cropland" :{ "url" : "Assets/Res/Material/Cropland/Cropland.mat" },
+    "cropland_dig" :{ "url" : "Assets/Res/Material/Cropland/Cropland_Dig.mat" },
+    "cropland_wet" :{ "url" : "Assets/Res/Material/Cropland/Cropland _Wet.mat" },
+    "cropland_dig_wet" :{ "url" : "Assets/Res/Material/Cropland/Cropland_Dig_Wet.mat" },
+
+    "cropland_rain" :{ "url" : "Assets/Res/Material/Cropland/Cropland_Rain.mat" },
+    "cropland_dig_rain" :{ "url" : "Assets/Res/Material/Cropland/Cropland_Dig_Rain.mat" }
+    
+}

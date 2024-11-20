@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 57b0b41395a27fd4295a50b859f9b742
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpiderArmature|Spider_Attack
+      takeName: SpiderArmature|Spider_Attack
+      internalID: -4882070504084092713
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpiderArmature|Spider_Death
+      takeName: SpiderArmature|Spider_Death
+      internalID: 473902392535601218
+      firstFrame: 6
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpiderArmature|Spider_Idle
+      takeName: SpiderArmature|Spider_Idle
+      internalID: -2040907462031556859
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpiderArmature|Spider_Jump
+      takeName: SpiderArmature|Spider_Jump
+      internalID: 3058699746863374707
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SpiderArmature|Spider_Walk
+      takeName: SpiderArmature|Spider_Walk
+      internalID: 224654356079549211
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Spider(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SpiderArmature
+      parentName: Spider(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.9719791, y: 0.058823913, z: -0.02291832, w: 0.22643141}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: SpiderArmature
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: -0.00000016858743, z: -0.0000001685874, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Root
+      position: {x: -0.00002063291, y: 0.015285526, z: -0.0010825843}
+      rotation: {x: -0.8468171, y: 0.21559082, z: -0.254368, w: 0.41438907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FrontLeg.L
+      parentName: Body
+      position: {x: -0.005529494, y: -0.0077363146, z: 0.0041296105}
+      rotation: {x: 0.11966361, y: -0.41797668, z: 0.6052665, w: 0.66680473}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.99999994}
+    - name: FrontLeg2.L
+      parentName: FrontLeg.L
+      position: {x: 2.9802322e-10, y: 0.011648052, z: 0.0000000011920929}
+      rotation: {x: -0.11362227, y: 0.0096527925, z: 0.07561112, w: 0.99059564}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.9999999}
+    - name: FrontLeg3.L
+      parentName: FrontLeg2.L
+      position: {x: 1.4901161e-10, y: 0.010627888, z: -1.4901161e-10}
+      rotation: {x: 0.009544484, y: -0.15659359, z: -0.029013664, w: 0.9871908}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: FrontLeg3.L_end
+      parentName: FrontLeg3.L
+      position: {x: -0, y: 0.009553617, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidFrontLeg.L
+      parentName: Body
+      position: {x: -0.0050254865, y: -0.008182623, z: 0.001851886}
+      rotation: {x: 0.16869488, y: -0.38233322, z: 0.5237037, w: 0.74235964}
+      scale: {x: 0.99999964, y: 0.9999999, z: 1.0000001}
+    - name: MidFrontLeg2.L
+      parentName: MidFrontLeg.L
+      position: {x: -5.9604643e-10, y: 0.015817737, z: -7.4505804e-11}
+      rotation: {x: 0.72709787, y: -0.026022814, z: -0.07103855, w: 0.6823526}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000002}
+    - name: MidFrontLeg3.L
+      parentName: MidFrontLeg2.L
+      position: {x: 7.45058e-10, y: 0.016458387, z: 0.0000000040931627}
+      rotation: {x: 0.06222005, y: -0.23219243, z: -0.1641179, w: 0.956703}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: MidFrontLeg3.L_end
+      parentName: MidFrontLeg3.L
+      position: {x: -0, y: 0.008990102, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackLeg.L
+      parentName: Body
+      position: {x: -0.0037594947, y: -0.008062217, z: -0.0029556507}
+      rotation: {x: -0.16437669, y: -0.4016145, z: 0.5454658, w: 0.7170448}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: BackLeg2.L
+      parentName: BackLeg.L
+      position: {x: -8.9406965e-10, y: 0.011086834, z: 2.9802322e-10}
+      rotation: {x: -0.38466427, y: 0.8797283, z: -0.106991, w: -0.2581948}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000001}
+    - name: BackLeg3.L
+      parentName: BackLeg2.L
+      position: {x: 0.0000000017881393, y: 0.010560231, z: 0.0000000020861626}
+      rotation: {x: -0.105431005, y: -0.4703957, z: -0.31605035, w: 0.81714404}
+      scale: {x: 1.0000005, y: 0.9999996, z: 0.9999998}
+    - name: BackLeg3.L_end
+      parentName: BackLeg3.L
+      position: {x: -0, y: 0.008719266, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidBackLeg.L
+      parentName: Body
+      position: {x: -0.0043464736, y: -0.008347623, z: -0.0005788695}
+      rotation: {x: -0.23452456, y: -0.21270926, z: 0.42035925, w: 0.8503241}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1}
+    - name: MidBackLeg2.L
+      parentName: MidBackLeg.L
+      position: {x: -4.4703483e-10, y: 0.014908022, z: 0}
+      rotation: {x: -0.5775085, y: 0.6852293, z: -0.20233904, w: -0.394973}
+      scale: {x: 1, y: 1.000001, z: 0.9999999}
+    - name: MidBackLeg3.L
+      parentName: MidBackLeg2.L
+      position: {x: -0.0000000013411044, y: 0.013770406, z: -0.0000000010430813}
+      rotation: {x: 0.1604512, y: -0.4174294, z: -0.29168335, w: 0.8455347}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.9999999}
+    - name: MidBackLeg3.L_end
+      parentName: MidBackLeg3.L
+      position: {x: -0, y: 0.009156663, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FrontLeg.R
+      parentName: Body
+      position: {x: 0.0055329693, y: -0.0077363146, z: 0.0041296035}
+      rotation: {x: 0.61860543, y: 0.18047898, z: -0.34656182, w: 0.68165207}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: FrontLeg2.R
+      parentName: FrontLeg.R
+      position: {x: -1.4901161e-10, y: 0.011648054, z: -4.4703483e-10}
+      rotation: {x: 0.1726918, y: 0.40560186, z: -0.029578108, w: 0.8971008}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999997}
+    - name: FrontLeg3.R
+      parentName: FrontLeg2.R
+      position: {x: -0.000000002682209, y: 0.010627887, z: 0}
+      rotation: {x: 0.0024063436, y: -0.037565943, z: -0.0007880776, w: 0.999291}
+      scale: {x: 0.99999976, y: 0.99999964, z: 0.9999997}
+    - name: FrontLeg3.R_end
+      parentName: FrontLeg3.R
+      position: {x: -0, y: 0.009553618, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidFrontLeg.R
+      parentName: Body
+      position: {x: 0.005028961, y: -0.008182624, z: 0.0018518788}
+      rotation: {x: 0.16564593, y: -0.105724506, z: -0.2992743, w: 0.9337123}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: MidFrontLeg2.R
+      parentName: MidFrontLeg.R
+      position: {x: -0.0000000016391277, y: 0.015817737, z: 2.9802322e-10}
+      rotation: {x: 0.6596487, y: 0.698236, z: 0.03131813, w: 0.2763137}
+      scale: {x: 1, y: 0.9999986, z: 0.9999995}
+    - name: MidFrontLeg3.R
+      parentName: MidFrontLeg2.R
+      position: {x: -0.0000000051781535, y: 0.016458383, z: 2.9802322e-10}
+      rotation: {x: 0.098184295, y: -0.074513234, z: 0.2562807, w: 0.95871156}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: MidFrontLeg3.R_end
+      parentName: MidFrontLeg3.R
+      position: {x: -0, y: 0.0089901015, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackLeg.R
+      parentName: Body
+      position: {x: 0.00376296, y: -0.008062217, z: -0.0029556565}
+      rotation: {x: -0.5105869, y: -0.6007441, z: -0.024637902, w: 0.6146547}
+      scale: {x: 0.99999994, y: 0.9999995, z: 0.9999998}
+    - name: BackLeg2.R
+      parentName: BackLeg.R
+      position: {x: -1.4901161e-10, y: 0.011086835, z: 5.9604643e-10}
+      rotation: {x: -0.4309524, y: 0.7450751, z: -0.09996331, w: 0.49914974}
+      scale: {x: 0.99999994, y: 0.9999996, z: 0.99999976}
+    - name: BackLeg3.R
+      parentName: BackLeg2.R
+      position: {x: -0.0000000013411044, y: 0.010560235, z: 7.45058e-10}
+      rotation: {x: -0.2070655, y: -0.67350096, z: -0.053344585, w: 0.7075837}
+      scale: {x: 0.9999998, y: 0.9999997, z: 1}
+    - name: BackLeg3.R_end
+      parentName: BackLeg3.R
+      position: {x: -0, y: 0.008719267, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidBackLeg.R
+      parentName: Body
+      position: {x: 0.0043499437, y: -0.008347623, z: -0.0005788755}
+      rotation: {x: -0.3012086, y: -0.44743645, z: -0.25666675, w: 0.80199516}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+    - name: MidBackLeg2.R
+      parentName: MidBackLeg.R
+      position: {x: -7.4505804e-11, y: 0.014908021, z: 0}
+      rotation: {x: -0.5486273, y: 0.09911985, z: -0.20127472, w: 0.8054017}
+      scale: {x: 0.9999999, y: 0.99999976, z: 1.0000001}
+    - name: MidBackLeg3.R
+      parentName: MidBackLeg2.R
+      position: {x: 0.0000000017881393, y: 0.01377041, z: -0.0000000032782554}
+      rotation: {x: -0.31172064, y: -0.57833743, z: 0.0936009, w: 0.74806076}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: MidBackLeg3.R_end
+      parentName: MidBackLeg3.R
+      position: {x: -0, y: 0.009156663, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Abdomen
+      parentName: Body
+      position: {x: -0.000011716254, y: -0.005973749, z: -0.007593399}
+      rotation: {x: -0.7049074, y: -0.0032054842, z: -0.002879055, w: 0.7092863}
+      scale: {x: 0.8799599, y: 0.8799599, z: 0.87996006}
+    - name: Abdomen_end
+      parentName: Abdomen
+      position: {x: -0, y: 0.014774059, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Thorax
+      parentName: Body
+      position: {x: 0.000020500845, y: -0.006580188, z: -0.0051410077}
+      rotation: {x: 0.9920745, y: -0.06545924, z: 0.08092694, w: 0.07038642}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Head
+      parentName: Thorax
+      position: {x: -5.48016e-11, y: 0.0038171487, z: 2.7474015e-10}
+      rotation: {x: 0.23727046, y: 0.00028591068, z: -0.0003878796, w: 0.97144353}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Head_end
+      parentName: Head
+      position: {x: -0, y: 0.0076649855, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.L
+      parentName: Root
+      position: {x: -0.01884864, y: 0.022366822, z: 0.05407323}
+      rotation: {x: 0, y: -0.00000011920932, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.L_end
+      parentName: PoleTarget.L
+      position: {x: -0, y: 0.0030912089, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FrontFoot.L
+      parentName: Root
+      position: {x: -0.016903153, y: 0.00024694024, z: 0.026352512}
+      rotation: {x: -0.071347035, y: 0.6814711, z: 0.7243881, w: 0.0759515}
+      scale: {x: 1, y: 1.0000004, z: 1}
+    - name: FrontFoot.L_end
+      parentName: FrontFoot.L
+      position: {x: -0, y: 0.0017692461, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidFrontFoot.L
+      parentName: Root
+      position: {x: -0.026156817, y: 0.00024694024, z: 0.017715922}
+      rotation: {x: -0.22651468, y: 0.6423232, z: 0.6917512, w: 0.23998393}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: MidFrontFoot.L_end
+      parentName: MidFrontFoot.L
+      position: {x: -0, y: 0.0017692473, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackFoot.L
+      parentName: Root
+      position: {x: -0.020356024, y: 0.00019918724, z: -0.022013916}
+      rotation: {x: -0.6205536, y: 0.0070288535, z: 0.38044968, w: 0.68565434}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: BackFoot.L_end
+      parentName: BackFoot.L
+      position: {x: -0, y: 0.0017692458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidBackFoot.L
+      parentName: Root
+      position: {x: -0.028381824, y: 0.00017551615, z: -0.010883967}
+      rotation: {x: -0.80565333, y: -0.086801305, z: 0.25024384, w: 0.52987385}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidBackFoot.L_end
+      parentName: MidBackFoot.L
+      position: {x: -0, y: 0.0017692485, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.R
+      parentName: Root
+      position: {x: 0.018811151, y: 0.022366822, z: 0.054073207}
+      rotation: {x: 0, y: -0.00000011920932, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PoleTarget.R_end
+      parentName: PoleTarget.R
+      position: {x: -0, y: 0.0030912089, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FrontFoot2.R
+      parentName: Root
+      position: {x: 0.016865639, y: 0.00024694085, z: 0.026352499}
+      rotation: {x: 0.071460806, y: 0.68148273, z: 0.7243771, w: -0.07584555}
+      scale: {x: 1, y: 1, z: 1}
+    - name: FrontFoot2.R_end
+      parentName: FrontFoot2.R
+      position: {x: -0, y: 0.0017692468, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidFrontFoot.R
+      parentName: Root
+      position: {x: 0.026119294, y: 0.00024694085, z: 0.0177159}
+      rotation: {x: 0.22200955, y: 0.64074814, z: 0.69321036, w: -0.24415778}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: MidFrontFoot.R_end
+      parentName: MidFrontFoot.R
+      position: {x: -0, y: 0.001769246, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BackFoot.R
+      parentName: Root
+      position: {x: 0.020318465, y: 0.00019918679, z: -0.022013936}
+      rotation: {x: -0.72762495, y: -0.38000044, z: 0.01976278, w: 0.5707635}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: BackFoot.R_end
+      parentName: BackFoot.R
+      position: {x: -0, y: 0.0017692458, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MidBackFoot.R
+      parentName: Root
+      position: {x: 0.028344274, y: 0.0001755166, z: -0.010883995}
+      rotation: {x: 0.8332719, y: 0.23931926, z: -0.020639308, w: -0.4979542}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999999}
+    - name: MidBackFoot.R_end
+      parentName: MidBackFoot.R
+      position: {x: -0, y: 0.0017692501, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cube
+      parentName: Spider(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

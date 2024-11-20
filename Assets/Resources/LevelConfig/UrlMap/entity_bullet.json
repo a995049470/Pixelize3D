@@ -1,0 +1,14 @@
+{
+    "arrow": 
+    {
+        "url": "Assets/Res/Prefab/Bullect/Arrow.prefab"
+    },
+    "SpiderWeb": 
+    {
+        "url": "Assets/Res/Prefab/Bullect/SpiderWeb.prefab"
+    },
+    "Venom": 
+    {
+        "url": "Assets/Res/Prefab/Bullect/Venom.prefab"
+    }
+}

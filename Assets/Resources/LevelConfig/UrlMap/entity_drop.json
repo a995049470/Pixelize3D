@@ -1,0 +1,10 @@
+{
+    "HPRecover":
+    {
+        "url" : "Assets/Res/Prefab/Drop/HPRecover.prefab"
+    },
+    "CustomDroppedItem" : 
+    {
+        "url" : "Assets/Res/Prefab/Drop/CustomDroppedItem.prefab"
+    }
+}

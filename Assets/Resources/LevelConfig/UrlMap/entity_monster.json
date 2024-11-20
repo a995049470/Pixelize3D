@@ -1,0 +1,52 @@
+{
+    "Spider" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider.prefab"
+    },
+    "Snake" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Snake.prefab"
+    },
+    "Frog" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Frog.prefab"
+    },
+    "HideFish" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/HideFish.prefab"
+    },
+    "Spider_C_1_1" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_1.prefab"
+    },
+    "Spider_C_1_2" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_2.prefab"
+    },
+    "Spider_C_1_3" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_3.prefab"
+    },
+    "Spider_C_1_4" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_4.prefab"
+    },
+    "Spider_C_1_5" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_5.prefab"
+    },
+    "Spider_C_1_6" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_6.prefab"
+    },
+    "Spider_C_1_7" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_7.prefab"
+    },
+    "Spider_C_1_8" :
+    {
+        "url" : "Assets/Res/Prefab/Enemy/Spider/Spider_C_1_8.prefab"
+    }
+
+    
+}

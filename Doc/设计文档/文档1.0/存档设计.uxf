@@ -1,0 +1,22 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>390</x><y>513</y><w>240</w><h>90</h></coordinates><panel_attributes>EntityComponentArchive
+--
+-type : string
+-data: string</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>330</x><y>363</y><w>350</w><h>120</h></coordinates><panel_attributes>EntityArchive
+--
+-key : string
+-flag : ResFlag
+-transformComponent : EntityComponentArchive
+-components : EntityComponentArchive[]</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>380</x><y>63</y><w>240</w><h>140</h></coordinates><panel_attributes>GameSceneArchive
+--
+- name : string
+- active : bool
+- playerPosition : vector3
+- playerEntityId : ulong
+- sceneEntityIdArray : ulong[]
+- missingPlayerKey : string
+- missingSystemKey : string[]</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>390</x><y>233</y><w>240</w><h>90</h></coordinates><panel_attributes>GameArchive
+--
+- name : string
+- entityArchives : List&lt;EntityArchive&gt;
+- sceneArchives : GameSceneArchive[]
+- uiwindows : List&lt;string&gt;</panel_attributes><additional_attributes></additional_attributes></element></diagram>

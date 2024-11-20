@@ -1,0 +1,42 @@
+{
+    "Plant_Bamboo":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Bamboo.prefab"
+    },
+    "Plant_Beet":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Beet.prefab"
+    },
+    "Plant_Cactus":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Cactus.prefab"
+    },
+    "Plant_Carrot":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Carrot.prefab"
+    },
+    "Plant_Corn":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Corn.prefab"
+    },
+    "Plant_Mushroom":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Mushroom.prefab"
+    },
+    "Plant_Pumpkin":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Pumpkin.prefab"
+    },
+    "Plant_Rice":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Rice.prefab"
+    },
+    "Plant_Tomato":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Tomato.prefab"
+    },
+    "Plant_Watermelon":
+    {
+        "url" : "Assets/Res/Prefab/Plant/Plant_Watermelon.prefab"
+    }
+}

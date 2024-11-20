@@ -1,0 +1,26 @@
+{
+    "knife_left":
+    {
+        "url" : "Assets/Res/Prefab/Weapon/LeftKnife.prefab"
+    },
+    "knife_right":
+    {
+        "url" : "Assets/Res/Prefab/Weapon/RightKnife.prefab"
+    },
+    "hoe_left" : 
+    {
+        "url" : "Assets/Res/Prefab/Weapon/LeftHoe.prefab"
+    },
+    "watering_can_right" :
+    {
+        "url" : "Assets/Res/Prefab/Weapon/RightWateringCan.prefab"
+    },
+    "crossbow_right" :
+    {
+        "url" : "Assets/Res/Prefab/Weapon/RightCrossbow.prefab"
+    },
+    "pickaxe_left" :
+    {
+        "url" : "Assets/Res/Prefab/Weapon/LeftPickaxe.prefab"
+    }
+}

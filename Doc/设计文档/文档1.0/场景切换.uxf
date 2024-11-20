@@ -1,0 +1,39 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>339</x><y>320</y><w>320</w><h>260</h></coordinates><panel_attributes>GameSceneSlice
+(场景的切片，可用于恢复场景, 要自定义序列化方法)
+--
+ConfigName : string
+PlayerPosition : Vector3
+SceneEntities : List&lt;Entity&gt;
+(不包括Player和System)
+PlayerEntity : Entity
+SystemEntity : List&lt;Entity&gt;
+--
+所有Entity序列化时使用uid代替，
+反序列化时用uid进行对Entity寻址
+
+切换场景时PlayerEntity和SystemEntity需要发生传递,
+满足下一场景的Entity需要保留，不足的需要额外生成
+
+
+
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>349</x><y>130</y><w>320</w><h>170</h></coordinates><panel_attributes>GameSceneConfig
+(走配置,生成标签用来标记场景)
+--
+Name : string
+PlayerKey : string
+LevelJson : string
+EnvKeys : string[]
+System : string[]
+（需要列出所有的依赖的系统实体）
+（System相关的entity加载时会验证是否重复）
+UI : string</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>209</x><y>170</y><w>100</w><h>30</h></coordinates><panel_attributes>游戏开始</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>209</x><y>270</y><w>100</w><h>50</h></coordinates><panel_attributes>加载初始场景
+--
+部分系统组件</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>249</x><y>190</y><w>30</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>159</x><y>40</y><w>140</w><h>110</h></coordinates><panel_attributes>一级系统组件
+--
+存档
+画质设定
+--
+发生修改就保存</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>359</x><y>60</y><w>240</w><h>60</h></coordinates><panel_attributes>GameSceneManager
+(切换游戏场景， 切换游戏存档)
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>

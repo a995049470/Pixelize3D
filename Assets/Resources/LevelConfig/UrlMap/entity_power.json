@@ -1,0 +1,50 @@
+{
+    "power_seed" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Seed.prefab"
+    },
+    "power_hoe" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Hoe.prefab"
+    },
+    "power_pickaxe" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Pickaxe.prefab"
+    },
+    "power_wateringcan" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_WateringCan.prefab"
+    },
+    "power_dagger" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Dagger.prefab"
+    },
+    "power_crossbow" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Crossbow.prefab"
+    },
+    "power_plot" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Plot.prefab"
+    },
+    "Buffer_IceArrow" : 
+    {
+        "url" : "Assets/Res/Prefab/Power_Buffer/Buffer_IceArrow.prefab"
+    },
+    "Power_Carrot" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_Carrot.prefab"
+    },
+    "Power_FastUse" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_FastUse.prefab"
+    },
+    "Effect_Map_B_1" : 
+    {
+        "url" : "Assets/Res/Prefab/Power_Effect/Effect_Map_B_1.prefab"
+    },
+    "Power_PlaceObject" : 
+    {
+        "url" : "Assets/Res/Prefab/Power/Power_PlaceObject.prefab"
+    }
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cec2b8eaff266a9419ef596c908af573, type: 3}
+  m_Name: Table_Hide_Finsh
+  m_EditorClassIdentifier: 
+  datas:
+  - {fileID: 11400000, guid: 0b1072e3e0d0fdf46850c0c4e55660c9, type: 2}
+  - {fileID: 11400000, guid: 44c0e3360b9a70b4d8d8bf42e42a84b5, type: 2}
+  - {fileID: 11400000, guid: b47ad56fec9f3b540871adeba4dfb390, type: 2}
+  - {fileID: 11400000, guid: ed78c8de2fbcf2b48918d5aa94a27911, type: 2}

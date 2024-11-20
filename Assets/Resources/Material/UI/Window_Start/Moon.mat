@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Moon
+  m_Shader: {fileID: 4800000, guid: 4999c3e7f05d69546846fefc1c85cfef, type: 3}
+  m_ValidKeywords:
+  - _BLEND_EFFECT0
+  - _BLEND_EFFECT1
+  - _SHOW_MAIN_TEX
+  m_InvalidKeywords:
+  - _G
+  - _GROUP0_ON
+  - _NONE
+  - _OUTLINE_ON
+  - _R
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendTex0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendTex1:
+        m_Texture: {fileID: 2800000, guid: f9ff0e07aaf4741448b16aaa82559de4, type: 3}
+        m_Scale: {x: 0.26, y: 0.84}
+        m_Offset: {x: 0, y: 0}
+    - _BlendTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendTex4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DisturbTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ca46eb2649d337d4cb6aa5196c56fbfd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 0ee500af36a515e4a9e948bc9b08fdc4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _BRDFLight: 0
+    - _ColorMask: 15
+    - _Common: 1
+    - _Cutoff: 0.01
+    - _DiffuseIntensity: 1
+    - _Disturb: 0
+    - _DisturbSpd: 0
+    - _DisturbStr: 0
+    - _EmitSpd2: 0
+    - _FlashMax0: 0
+    - _FlashMax1: 1
+    - _FlashMax2: 1
+    - _FlashMax3: 1
+    - _FlashMax4: 1
+    - _FlashMin0: 1
+    - _FlashMin1: 0.4
+    - _FlashMin2: 1
+    - _FlashMin3: 1
+    - _FlashMin4: 1
+    - _FlashSpd0: 1
+    - _FlashSpd1: 1
+    - _FlashSpd2: 0
+    - _FlashSpd3: 0
+    - _FlashSpd4: 0
+    - _Group0: 1
+    - _Group1: 1
+    - _Group2: 0
+    - _Group3: 0
+    - _Group4: 0
+    - _H: 0
+    - _HSVOffset: 0
+    - _MaskUse: 4
+    - _MaskUse0: 0
+    - _MaskUse1: 1
+    - _MaskUse2: 4
+    - _MaskUse3: 4
+    - _MaskUse4: 4
+    - _MoveSpd0: 0
+    - _MoveSpd1: 0.03
+    - _MoveSpd2: 0
+    - _MoveSpd3: 0
+    - _MoveSpd4: 0
+    - _NormalScale: 1
+    - _Outline: 1
+    - _OutlineV: 0.1
+    - _Polar0: 0
+    - _Polar1: 0
+    - _Polar2: 0
+    - _Polar3: 0
+    - _Polar4: 0
+    - _ReciveShaodow: 0
+    - _RejectLightLevel: 0
+    - _RotateAngle0: 0
+    - _RotateAngle1: 0
+    - _RotateAngle2: 0
+    - _RotateAngle3: 0
+    - _RotateAngle4: 0
+    - _RotateSpd0: 0
+    - _RotateSpd1: 0
+    - _RotateSpd2: 0
+    - _RotateSpd3: 0
+    - _RotateSpd4: 0
+    - _Roughness: 0
+    - _S: 0
+    - _SpecularIntensity: 0
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseCustomObjectPosition: 0
+    - _V: 0
+    - _VitrualNormal: 0
+    m_Colors:
+    - _BlendColor0: {r: 0.752, g: 0, b: 0, a: 1}
+    - _BlendColor1: {r: 0.14899999, g: 0.14899999, b: 0.14899999, a: 1}
+    - _BlendColor2: {r: 1, g: 1, b: 1, a: 1}
+    - _BlendColor3: {r: 1, g: 1, b: 1, a: 1}
+    - _BlendColor4: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DisturbDir: {r: 1, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _HitColor: {r: 0, g: 0, b: 0, a: 0}
+    - _MoveDir0: {r: 1, g: 0, b: 0, a: 0}
+    - _MoveDir1: {r: 1, g: 0, b: 0, a: 0}
+    - _MoveDir2: {r: 1, g: 0, b: 0, a: 0}
+    - _MoveDir3: {r: 1, g: 0, b: 0, a: 0}
+    - _MoveDir4: {r: 1, g: 0, b: 0, a: 0}
+    - _ObjectPosition: {r: 0, g: 0, b: 0, a: 0}
+    - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RelativePosition: {r: 0, g: 0, b: 0, a: 0}
+    - _RotateCenter0: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RotateCenter1: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RotateCenter2: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RotateCenter3: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _RotateCenter4: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _VirtualNormaLightDir: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []

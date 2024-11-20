@@ -1,0 +1,22 @@
+{
+    "SpiderGraph":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Graph/SpiderGraph.asset"
+    },
+    "SnakeGraph":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Graph/SnakeGraph.asset"
+    },
+    "FrogGraph":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Graph/FrogGraph.asset"
+    },
+    "HideFinshGraph":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Graph/HideFinshGraph.asset"
+    },
+    "SpiderGraph_C_1_1":
+    {
+        "url" : "Assets/Res/GameData/GOAP/Graph/SpiderGraph_C_1_1.asset"
+    }    
+}

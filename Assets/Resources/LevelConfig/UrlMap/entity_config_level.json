@@ -1,0 +1,11 @@
+{
+    "PlotConfig_Test":
+    {
+        "url": "Assets/Res/Prefab/LevelConfig/PlotConfig_Test.prefab"
+    },
+    "PlotConfig_Born":
+    {
+        "url": "Assets/Res/Prefab/LevelConfig/PlotConfig_Born.prefab"
+    }
+    
+}

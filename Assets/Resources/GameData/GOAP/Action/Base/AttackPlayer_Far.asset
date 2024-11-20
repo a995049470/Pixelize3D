@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 022163d7e7e6a3a4799292ed7743daf6, type: 3}
+  m_Name: AttackPlayer_Far
+  m_EditorClassIdentifier: 
+  Cost: 0
+  serializedPreconditions:
+    cacheData:
+    - flag: 6
+      leftValue: 1
+      rightValue: 1
+    - flag: 8
+      leftValue: 80
+      rightValue: 100
+    - flag: 9
+      leftValue: 110
+      rightValue: 10000
+  serializedFailPreconditions:
+    cacheData: []
+  effect:
+    flag: 5
+    leftValue: 1
+    rightValue: 1
+  AttackIndex: 1
